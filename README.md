@@ -17,6 +17,7 @@
       background: #ffffff;
   ">
     <h3 style="margin:0; font-size:20px; color:#111827;">Other</h3>
+      
   </div>
 
   <!-- CONTENT BOX (khung kẻ quanh dãy p) -->
@@ -25,11 +26,11 @@
       border-top: 1px solid #f3f4f6; /* nhẹ để tách phần nội dung nếu muốn */
   ">
     <p style="margin:6px 0;"><strong>🌏 Student from Vietnam</strong></p>
-    <p style="margin:6px 0;">💻 Web Application Developer, Algorithm, Basic Data Science.</p>
+    <p style="margin:6px 0;">💻 Web Application Developer, Basic AI.</p>
     <p style="margin:6px 0;">🎂 Just 18 years old.</p>
-    <p style="margin:6px 0;">🧠 Enjoys coding and math. A little bit about games.</p>
-    <p style="margin:6px 0;">🔥 Proficient in JavaScript, TypeScript, Python, Java.</p>
-    <p style="margin:6px 0;">🛠️ A little bit about Golang, Rust, C#, C/C++, Lua...</p>
+    <p style="margin:6px 0;">🧠 Enjoys coding and billiards, A little bit about games.</p>
+    <p style="margin:6px 0;">🔥 Proficient in JavaScript, Python, Java.</p>
+    <p style="margin:6px 0;">🛠️ A little bit about  C#, C/C++,Machine learning,LLM </p>
     <p style="margin:6px 0;">📚 (I can use any language if it has documentation)</p>
   </div>
 
